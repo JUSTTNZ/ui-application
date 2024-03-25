@@ -1,7 +1,7 @@
 const internsData = [
     {
       id: 1,
-      name: "Fvour orie",
+      name: "Favour orie",
       picture: "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=600",
       program: "Frontend",
       attandance: 90,
